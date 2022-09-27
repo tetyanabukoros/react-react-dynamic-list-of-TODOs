@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 interface Props {
   completeTodoFilter: string,
   setCompleteTodoFilter: (selectTodos: string) => void,
